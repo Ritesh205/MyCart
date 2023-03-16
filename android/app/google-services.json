@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838458204531",
+    "project_id": "react-native-assesment-3a4b5",
+    "storage_bucket": "react-native-assesment-3a4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838458204531:android:c2550ed02340409c212506",
+        "android_client_info": {
+          "package_name": "com.mycart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838458204531-7u087vgigk14cp3jpb7uib0k7qkdd6rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8MISssYcFP8GzfBh3lxdFh5liJztHd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838458204531-7u087vgigk14cp3jpb7uib0k7qkdd6rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
